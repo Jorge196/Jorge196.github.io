@@ -1,11 +1,11 @@
 # Site settings
 author: Jorge Ramirez
-title: CLI Data Gem Portfolio Project 
+title: My Blog
 header-img: img/home-bg.png
 email: joramirez96@gmail.com
 copyright_name: Jorge Ramirez
 description: > # this means to ignore newlines until "baseurl:"
-  The Process 
+  Blog posts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jorge196
